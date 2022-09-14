@@ -1,14 +1,6 @@
-[
-	{
-			"relation": [
-					"delegate_permission/common.handle_all_urls"
-			],
-			"target": {
-					"namespace": "android_app",
-					"package_name": "pl.h5map",
-					"sha256_cert_fingerprints": [
-							"5B:23:66:FC:ED:FE:EA:F0:B2:AE:CD:3D:50:80:F5:EE:22:AC:65:2F:54:FC:85:10:7C:1E:52:09:98:DB:28:2A"
-					]
-			}
-	}
-]
+[{"relation": ["delegate_permission/common.handle_all_urls"],"target": {
+"namespace": "android_app",
+"package_name": "pl.h5map",
+"sha256_cert_fingerprints": [
+"5B:23:66:FC:ED:FE:EA:F0:B2:AE:CD:3D:50:80:F5:EE:22:AC:65:2F:54:FC:85:10:7C:1E:52:09:98:DB:28:2A"
+]}}]
